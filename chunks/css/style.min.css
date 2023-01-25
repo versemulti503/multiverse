@@ -4956,8 +4956,8 @@ nav .tech-box svg:hover {
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
-    padding-top: 86px;
-    padding-bottom: 100px
+    padding-top: 26px;
+    padding-bottom: 30px
 }
 
 .top-header .wrapper {
@@ -8495,7 +8495,7 @@ svg {
 }
 
 [data-background=dark] .box-container .bottomhalfpadding {
-    padding-bottom: 32px !important
+    padding-bottom: 02px !important
 }
 
 [data-background=dark] .box-container .nomargin {
@@ -10714,7 +10714,7 @@ body[data-font=raleway] button {
     }
 
     .sec-normal {
-        padding: 44px 0 !important;
+        padding: 20px 0 !important;
     }
     .tabs-header .btn-group>.btn:not(:first-child) {
         font-size: 12px !important;
